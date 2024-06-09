@@ -1,0 +1,31 @@
+---
+title: "Acerca de mí"
+image: ./img/perfil.jpg
+  
+about:
+  image-shape: round
+  template: solana
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/hugoaluque
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hhal/
+      target: _blank
+    - icon: github
+      text: Github
+      href: https://github.com/hugoaluque
+      target: _blank
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/hugo.aluque/
+      target: _blank
+    - icon: file-earmark-person
+      text: Resumen - CV
+      href: https://docs.google.com/document/d/1KDMfIJWctxLGZoz8dKHkkKMXJxoyg0Cc0jtj53Q_ItU/edit
+      target: _blank
+---
+
+Maestro en Ciencias en Ingeniería de Recursos Hídricos, Ingeniero Sanitario y Ambiental, Evaluador de Riesgos Originado por Fenómenos Naturales acreditado por el CENEPRED - R.D. N° 00013-2024-CENEPRED/DIFAT; con amplio conocimiento en al manejo de herramientas de Sistemas de Información Geográfica como ArcGIS, QGIS, GVGIS, SAGA GIS y GRASSGIS; manejo avanzado de herramientas de teledetección satelital como ENVI, ERDAS, SNAP, OTB y Google Earth Engine; miembro activo de la Asociación QGIS -- Perú; manejo de sistemas operativos Windows y Linux (Fedora, Ubuntu y CentOS).

@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Acerca de mí",
+    "section": "",
+    "text": "Maestro en Ciencias en Ingeniería de Recursos Hídricos, Ingeniero Sanitario y Ambiental, Evaluador de Riesgos Originado por Fenómenos Naturales acreditado por el CENEPRED - R.D. N° 00013-2024-CENEPRED/DIFAT; con amplio conocimiento en al manejo de herramientas de Sistemas de Información Geográfica como ArcGIS, QGIS, GVGIS, SAGA GIS y GRASSGIS; manejo avanzado de herramientas de teledetección satelital como ENVI, ERDAS, SNAP, OTB y Google Earth Engine; miembro activo de la Asociación QGIS – Perú; manejo de sistemas operativos Windows y Linux (Fedora, Ubuntu y CentOS)."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJun 5, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Acerca de mí",
+    "section": "Education",
+    "text": "Education\nUniversidad Nacional del Altiplano | Puno, Perú\n\nM.Sc. Ingeniería de Recursos Hídricos | Abril 2018 - Dic. 2019\nUniversidad Andina Néstor Cáceres Velásquez | Juliaca, Perú Ing. Sanitario y Ambiental | Marzo 2009 - Julio 2016"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Acerca de mí",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018\n:::\n\nThis content appears below the formatted about page content."
+  }
+]
