@@ -24,7 +24,7 @@ about:
       target: _blank
     - icon: file-earmark-person
       text: Resumen - CV
-      href: https://docs.google.com/document/d/1KDMfIJWctxLGZoz8dKHkkKMXJxoyg0Cc0jtj53Q_ItU/edit
+      href: https://www.instagram.com/hugo.aluque/
       target: _blank
 ---
 
