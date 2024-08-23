@@ -40,5 +40,26 @@
     "title": "Acerca de mí",
     "section": "Experience",
     "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018\n:::\n\nThis content appears below the formatted about page content."
+  },
+  {
+    "objectID": "SECURITY.html",
+    "href": "SECURITY.html",
+    "title": "Security Policy",
+    "section": "",
+    "text": "Use this section to tell people about which versions of your project are currently being supported with security updates.\n\n\n\nVersion\nSupported\n\n\n\n\n5.1.x\n:white_check_mark:\n\n\n5.0.x\n:x:\n\n\n4.0.x\n:white_check_mark:\n\n\n&lt; 4.0\n:x:\n\n\n\n\n\n\nUse this section to tell people how to report a vulnerability.\nTell them where to go, how often they can expect to get an update on a reported vulnerability, what to expect if the vulnerability is accepted or declined, etc."
+  },
+  {
+    "objectID": "SECURITY.html#supported-versions",
+    "href": "SECURITY.html#supported-versions",
+    "title": "Security Policy",
+    "section": "",
+    "text": "Use this section to tell people about which versions of your project are currently being supported with security updates.\n\n\n\nVersion\nSupported\n\n\n\n\n5.1.x\n:white_check_mark:\n\n\n5.0.x\n:x:\n\n\n4.0.x\n:white_check_mark:\n\n\n&lt; 4.0\n:x:"
+  },
+  {
+    "objectID": "SECURITY.html#reporting-a-vulnerability",
+    "href": "SECURITY.html#reporting-a-vulnerability",
+    "title": "Security Policy",
+    "section": "",
+    "text": "Use this section to tell people how to report a vulnerability.\nTell them where to go, how often they can expect to get an update on a reported vulnerability, what to expect if the vulnerability is accepted or declined, etc."
   }
 ]

@@ -13,5 +13,8 @@
   },
   "blog.qmd": {
     "blog.html": "54fbe719"
+  },
+  "SECURITY.md": {
+    "SECURITY.html": "81e4583b"
   }
 }
