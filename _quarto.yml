@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Hector Añamuro"
+  favicon: ./img/faviconcip.ico
   navbar:
     right:
       #- blog.qmd
