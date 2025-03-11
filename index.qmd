@@ -24,7 +24,7 @@ about:
       target: _blank
     - icon: file-earmark-person
       text: Resumen - CV
-      href: https://docs.google.com/document/d/1KDMfIJWctxLGZoz8dKHkkKMXJxoyg0Cc0jtj53Q_ItU/edit
+      href: https://drive.google.com/file/d/1Md3WKdhZFE0ofwyVn5rv_1HfFAs7NlOG/view
       target: _blank
 ---
 
