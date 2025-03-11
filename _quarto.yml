@@ -6,7 +6,7 @@ website:
   title: "Hector Añamuro"
   navbar:
     right:
-      - blog.qmd
+      #- blog.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
